@@ -1,0 +1,156 @@
+{
+  "nav": {
+    "header": {
+      "home": "Trang chủ",
+      "features": "Tính năng",
+      "reviews": "Đánh giá",
+      "pricing": "Gói cước",
+      "download": "Tải xuống",
+      "getStart": "Bắt đầu miễn phí",
+      "getStartMobi": "Bắt đầu"
+
+    },
+    "footer": {
+      "legal": "Pháp lý",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfService": "Điều khoản dịch vụ",
+      "contactUs": "Liên hệ với chúng tôi",
+      "desc": "MKTLogin - Trình duyệt chống phát hiện tốt nhất cho việc quản lý đa tài khoản. Được các doanh nghiệp tin cậy trên Google, Instagram, Facebook, Telegram, Twitter, Tiktok, v.v.",
+      "reserved": "© 2025 MKTLogin. Tất cả các quyền được bảo lưu."
+    }
+  },
+  "landingPage": {
+    "banner": {
+      "title": "Quản lý hàng trăm tài khoản <Typography>một cách an toàn</Typography> và Tự động hóa các tác vụ trực tuyến của bạn",
+      "subTitle": "MKTLogin đơn giản hóa thế giới đa tài khoản của bạn với bảo mật nâng cao và khả năng tự động hóa. Vượt qua hệ thống phát hiện, quản lý hồ sơ hiệu quả và tự động hóa các tác vụ lặp đi lặp lại với trình duyệt chống phát hiện mạnh mẽ của chúng tôi.",
+      "download": "Tải xuống cho Windows",
+      "document": "Tài liệu",
+      "userActive": "Người dùng hoạt động",
+      "upTime": "Thời gian hoạt động",
+      "support": "Hỗ trợ"
+    },
+    "solution": {
+      "title": "Tại sao chọn MKTLogin?",
+      "subTitle": "Hãy chấm dứt những khó khăn với việc bị khóa tài khoản, các tác vụ thủ công tốn thời gian và những lo ngại về bảo mật. MKTLogin cung cấp giải pháp tối ưu cho việc quản lý đa tài khoản chuyên nghiệp.",
+      "accountBan": "Khóa tài khoản",
+      "banDesc": "Nỗi lo thường trực về việc bị phát hiện và đình chỉ tài khoản trên các nền tảng",
+      "timeWaste": "Lãng phí thời gian",
+      "timeDesc": "Hàng giờ đồng hồ dành cho các tác vụ lặp đi lặp lại có thể tự động hóa",
+      "securityRisk": "Rủi ro bảo mật",
+      "securityDesc": "Dữ liệu tài khoản dễ bị tổn thương và thiếu các biện pháp bảo mật phù hợp"
+    },
+    "features": {
+      "title": "Các tính năng mạnh mẽ để <Typography>Quản lý đa tài khoản</Typography>",
+      "subTitle": "Mọi thứ bạn cần để quản lý, tự động hóa và mở rộng sự hiện diện trực tuyến của mình trên nhiều nền tảng một cách an toàn.",
+      "antiDetect": "Trình duyệt chống phát hiện nâng cao",
+      "antiDetectDesc": "Giả mạo các thông số trình duyệt, vượt qua các hệ thống phát hiện đa tài khoản trên các nền tảng (Facebook, Google, TikTok, Telegram, Zalo, Shopee, Amazon...), dễ dàng giả mạo IP bằng proxy.",
+      "accountManage": "Quản lý tài khoản hàng loạt hiệu quả",
+      "accountManageDesc": "Công cụ đăng nhập tài khoản nhanh chóng trong các hồ sơ, quản lý thông tin tài khoản dễ dàng và an toàn.",
+      "profileManage": "Quản lý hồ sơ thông minh",
+      "profileManageDesc": "Mỗi hồ sơ có các thông số khác nhau, tạo hồ sơ hàng loạt nhanh chóng, dữ liệu hồ sơ được mã hóa và lưu trữ trên đám mây.",
+      "automation": "Tự động hóa mạnh mẽ",
+      "automationDesc": "Tạo quy trình làm việc bằng cách kéo và thả, không yêu cầu viết mã. Lên lịch chạy tự động với các quy trình đa dạng như đăng ký tài khoản, nuôi dưỡng, farming airdrop.",
+      "synchronization": "Đồng bộ hóa hành động",
+      "synchronizationDesc": "Dễ dàng thực hiện các hành động đồng bộ hóa đồng thời trên nhiều hồ sơ để đạt hiệu quả tối đa.",
+      "miniApp": "Chợ Mini App",
+      "miniAppDesc": "Trung tâm tập trung cho các quy trình tự động. Xuất bản các quy trình tự động của bạn lên chợ để kiếm phí.",
+      "teamwork": "Làm việc nhóm hiệu quả",
+      "teamworkDesc": "Tính năng không gian làm việc, chia sẻ hồ sơ bằng cách cấp quyền trên mỗi hồ sơ hoặc nhóm hồ sơ để cộng tác liền mạch.",
+      "affiliate": "Chương trình liên kết hấp dẫn",
+      "affiliateDesc": "Chia sẻ liên kết giới thiệu, theo dõi lượt đăng ký & doanh thu, nhận hoa hồng tự động khi phát triển cộng đồng."
+    },
+    "worker": {
+      "title": "Cách thức hoạt động",
+      "subTitle": "Bắt đầu với MKTLogin chỉ trong 3 bước đơn giản",
+      "step1": {
+        "title": "Tạo hồ sơ",
+        "desc": "Thiết lập nhiều hồ sơ trình duyệt với dấu vân tay và thông số duy nhất cho từng tài khoản."
+      },
+      "step2": {
+        "title": "Cài đặt & Tùy chỉnh",
+        "desc": "Cấu hình quy trình tự động hóa, cài đặt proxy và quyền nhóm theo nhu cầu."
+      },
+      "step3": {
+        "title": "Bắt đầu quản lý",
+        "desc": "Khởi chạy các quy trình tự động hóa của bạn và quản lý tất cả tài khoản từ một bảng điều khiển an toàn."
+      }
+    },
+    "reviews": {
+      "title": "Người dùng của chúng tôi nói gì",
+      "subTitle": "Hãy tham gia cùng hàng ngàn người dùng hài lòng đã tin tưởng MKTLogin",
+      "review1": {
+        "name": "Emily Nguyễn",
+        "role": "Doanh nhân thương mại điện tử",
+        "feedback": "Các tính năng bảo mật mang lại cho tôi sự an tâm. Tôi có thể quản lý nhiều tài khoản mà không lo lắng về việc bị cấm hoặc rò rỉ dữ liệu."
+      },
+      "review2": {
+        "name": "John Smith",
+        "role": "Quản lý truyền thông xã hội tự do",
+        "feedback": "Là một người làm nghề tự do, MKTLogin đã giúp tôi tiết kiệm vô số giờ. Các tính năng tự động hóa cực kỳ mạnh mẽ và dễ sử dụng."
+      },
+      "review3": {
+        "name": "Sarah Trần",
+        "role": "Quản lý tiếp thị kỹ thuật số, TechFlow Agency",
+        "feedback": "MKTLogin đã cách mạng hóa cách chúng tôi quản lý các tài khoản mạng xã hội của khách hàng. Các tính năng chống phát hiện thật sự đột phá."
+      }
+    },
+    "plans": {
+      "title": "Chọn gói của bạn",
+      "subTitle": "Bắt đầu miễn phí và mở rộng khi bạn phát triển. Tất cả các gói đều bao gồm các tính năng bảo mật cốt lõi của chúng tôi.",
+      "mostPopular": "Phổ biến nhất",
+      "solo": "Solo",
+      "bigTeam": "Big Team",
+      "smallTeam": "Small Team",
+      "$0": "0₫",
+      "$11": "300.000₫",
+      "$20": "500.000₫",
+      "$57": "1.500.000₫",
+      "$100": "2.500.000₫",
+      "$384": "10.000.000₫",
+      "package": "gói",
+      "free5": "Miễn phí cho 5 hồ sơ",
+      "up30": "Lên đến 30 hồ sơ",
+      "up500": "Lên đến 500 hồ sơ",
+      "up100": "Lên đến 100 hồ sơ",
+      "up1000": "Lên đến 1000 hồ sơ",
+      "up5000": "Lên đến 5000 hồ sơ",
+      "notTransfer": "Không thể chuyển hồ sơ",
+      "notInvite": "Không thể mời thành viên",
+      "allFeatures": "Tất cả tính năng",
+      "teamSupport": "Hỗ trợ nhóm",
+      "tryIt": "Thử miễn phí"
+    }
+  },
+  "downloadPage": {
+    "download": {
+      "title": "Tải xuống cho Windows",
+      "subTitle": "Tải ứng dụng Windows mạnh mẽ nhất để tăng năng suất và hiệu quả. Tải xuống miễn phí với các tính năng cao cấp có sẵn.",
+      "userTrust": "Được hơn 100.000+ người dùng tin cậy",
+      "virusFree": "Không virus",
+      "safe": "An toàn & Bảo mật",
+      "fastInstall": "Cài đặt nhanh",
+      "getDownloadLink": "Nhận liên kết tải xuống",
+      "inComingSoon": "Sắp ra mắt"
+    },
+    "systemRequirements": {
+      "title": "Yêu cầu hệ thống",
+      "subTitle": "Đảm bảo hệ thống của bạn đáp ứng các yêu cầu này để có hiệu suất tối ưu.",
+      "minimum": {
+        "title": "Yêu cầu tối thiểu",
+        "os": "Windows 10 (32-bit) trở lên",
+        "ram": "RAM 2 GB",
+        "cpu": "CPU lõi kép",
+        "disk": "2 GB dung lượng đĩa trống",
+        "network": "Yêu cầu kết nối internet"
+      },
+      "maximum": {
+        "title": "Yêu cầu đề xuất",
+        "os": "Windows 10 (64-bit) trở lên",
+        "ram": "Intel Core i5 hoặc AMD Ryzen 5",
+        "cpu": "RAM 8 GB trở lên",
+        "disk": "5 GB dung lượng đĩa trống",
+        "network": "Kết nối internet tốc độ cao"
+      }
+    }
+  }
+}

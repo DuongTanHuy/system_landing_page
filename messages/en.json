@@ -1,0 +1,156 @@
+{
+  "nav": {
+    "header": {
+      "home": "Home",
+      "features": "Features",
+      "reviews": "Reviews",
+      "pricing": "Pricing",
+      "download": "Download",
+      "getStart": "Get Started Free",
+      "getStartMobi": "Get Started"
+    },
+    "footer": {
+      "legal": "Legal",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "contactUs": "Contact Us",
+      "desc": "MKTLogin - The best Antidetect Browser for Multi-Accounting. Trusted by businesses in Google, Instagram, Facebook, Telegram, Twitter, Tiktok, etc.",
+      "reserved": "© 2025 MKTLogin. All rights reserved."
+    }
+  },
+  "landingPage": {
+    "banner": {
+      "title": "Manage Hundreds of Accounts <Typography>Securely</Typography> and Automate Your Online Tasks",
+      "subTitle": "MKTLogin simplifies your multi-account world with advanced security and automation. Bypass detection systems, manage profiles efficiently, and automate repetitive tasks with our powerful antidetect browser.",
+      "download": "Download for Windows",
+      "document": "Documentation",
+      "userActive": "Active Users",
+      "upTime": "Uptime",
+      "support": "Support"
+    },
+    "solution": {
+      "title": "Why Choose MKTLogin?",
+      "subTitle": "Stop struggling with account bans, time-consuming manual tasks, and security concerns. MKTLogin provides the ultimate solution for professional multi-account management.",
+      "accountBan": "Account Bans",
+      "banDesc": "Constant fear of detection and account suspension across platforms",
+      "timeWaste": "Time Waste",
+      "timeDesc": "Hours spent on repetitive tasks that could be automated",
+      "securityRisk": "Security Risk",
+      "securityDesc": "Vulnerable account data and lack of proper security measures"
+    },
+    "features": {
+      "title": "Powerful Features for <Typography>Multi-Account Management</Typography>",
+      "subTitle": "Everything you need to manage, automate, and scale your online presence across multiple platforms securely.",
+      "antiDetect": "Advanced Anti-detect Browser",
+      "antiDetectDesc": "Fake browser parameters, bypass multi-account detection systems on platforms (Facebook, Google, TikTok, Telegram, Zalo, Shopee, Amazon...), easily fake IP using proxy.",
+      "accountManage": "Efficient Bulk Account Management",
+      "accountManageDesc": "Tool for quick account login within profiles, manage account information with ease and security.",
+      "profileManage": "Intelligent Profile Management",
+      "profileManageDesc": "Each profile has different parameters, create bulk profiles quickly, profile data is encrypted and stored in the cloud.",
+      "automation": "Powerful Automation",
+      "automationDesc": "Create workflows by dragging and dropping, no coding required. Schedule automated runs with diverse processes like account registration, nurturing, airdrop farming.",
+      "synchronization": "Action Synchronization",
+      "synchronizationDesc": "Easily perform synchronized actions simultaneously across multiple profiles for maximum efficiency.",
+      "miniApp": "Mini App Market",
+      "miniAppDesc": "Centralized hub for automated processes. Publish your automated processes to the market to earn fees.",
+      "teamwork": "Effective Teamwork",
+      "teamworkDesc": "Workspace feature, share profiles by granting permissions per profile or per profile group for seamless collaboration.",
+      "affiliate": "Attractive Affiliate Program",
+      "affiliateDesc": "Share referral links, track sign-ups & revenue, receive automated commissions for growing the community."
+    },
+    "worker": {
+      "title": "How It Works",
+      "subTitle": "Get started with MKTLogin in just 3 simple steps",
+      "step1": {
+        "title": "Create Profiles",
+        "desc": "Set up multiple browser profiles with unique fingerprints and parameters for each account."
+      },
+      "step2": {
+        "title": "Setup & Customize",
+        "desc": "Configure automation workflows, proxy settings, and team permissions as needed."
+      },
+      "step3": {
+        "title": "Start Managing",
+        "desc": "Launch your automated workflows and manage all accounts from one secure dashboard."
+      }
+    },
+    "reviews": {
+      "title": "What Our <Typography>Users Say</Typography>",
+      "subTitle": "Join thousands of satisfied users who trust MKTLogin",
+      "review1": {
+        "name": "Emily Nguyen",
+        "role": "E-commerce Entrepreneur",
+        "feedback": "The security features give me peace of mind. I can manage multiple accounts without worrying about bans or data leaks."
+      },
+
+      "review2": {
+        "name": "John Smith",
+        "role": "Freelance Social Media Manager",
+        "feedback": "As a freelancer, MKTLogin has saved me countless hours. The automation features are incredibly powerful and easy to use."
+      },
+      "review3": {
+        "name": "Sarah Chen",
+        "role": "Digital Marketing Manager, TechFlow Agency",
+        "feedback": "MKTLogin has revolutionized how we manage our client's social media accounts. The antidetect features are game-changing."
+      }
+    },
+    "plans": {
+      "title": "Choose Your Plan",
+      "subTitle": "Start free and scale as you grow. All plans include our core security features.",
+      "mostPopular": "Most Popular",
+      "solo": "Solo",
+      "bigTeam": "Big Team",
+      "smallTeam": "Small Team",
+      "$0": "$0",
+      "$11": "$11",
+      "$20": "$20",
+      "$57": "$57",
+      "$100": "$100",
+      "$384": "$384",
+      "package": "package",
+      "free5": "Free for 5 profiles",
+      "up30": "Up to 30 profiles",
+      "up500": "Up to 500 profiles",
+      "up100": "Up to 100 profiles",
+      "up1000": "Up to 1000 profiles",
+      "up5000": "Up to 5000 profiles",
+      "notTransfer": "Can’t transfer profile",
+      "notInvite": "Can’t invite member",
+      "allFeatures": "All features",
+      "teamSupport": "Team support",
+      "tryIt": "Try for free"
+    }
+  },
+  "downloadPage": {
+    "download": {
+      "title": "Download for Windows",
+      "subTitle": "Get the most powerful Windows application for productivity and efficiency. Free download with premium features available.",
+      "userTrust": "Trusted by 100.000+ users",
+      "virusFree": "Virus-free",
+      "safe": "Safe & Secure",
+      "fastInstall": "Fast Install",
+      "getDownloadLink": "Get Download Link",
+      "inComingSoon": "Coming Soon"
+    },
+    "systemRequirements": {
+      "title": "System Requirements",
+      "subTitle": "Make sure your system meets these requirements for optimal performance.",
+      "minimum": {
+        "title": "Minimum Requirements",
+        "os": "Windows 10 (32-bit) or later",
+        "ram": "2 GB RAM",
+        "cpu": "Dual-core CPU",
+        "disk": "2 GB available disk space",
+        "network": "Internet connection required"
+      },
+      "maximum": {
+        "title": "Recommended Requirements",
+        "os": "Windows 10 (64-bit) or later",
+        "ram": "Intel Core i5 or AMD Ryzen 5",
+        "cpu": "8 GB RAM or more",
+        "disk": "5 GB available disk space",
+        "network": "High-speed internet connection"
+      }
+    }
+  }
+}
