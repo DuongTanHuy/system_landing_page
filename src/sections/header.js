@@ -78,7 +78,7 @@ export default function Header() {
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'space-between',
-              mx: { md: '52px' },
+              mx: { md: '0px', lg: '52px' },
             }}
           >
             <Logo />
@@ -113,6 +113,7 @@ export default function Header() {
                 }),
                 height: 44,
                 borderRadius: 2,
+                whiteSpace: 'nowrap',
                 '&:hover': {
                   boxShadow: 'rgba(0, 0, 0, 0.15) 0px 5px 15px',
                 },

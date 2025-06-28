@@ -20,13 +20,13 @@ export const allMetadata = {
       locale: 'en_US',
       type: 'website',
       siteName: 'MKTLogin',
-      url: 'https://mktlogin.com/download',
+      url: 'https://system-landing-page.vercel.app/download',
       title: 'MKTLogin - Download Antidetect Browser for Multi-Accounting',
       description:
         'Create unique browser fingerprints with MKTLogin antidetect browser to manage all your online accounts without getting banned. Trusted by businesses in Google, Instagram, Facebook, Telegram, Twitter, Tiktok, etc.',
       images: [
         {
-          url: 'https://mktlogin.com/images/mktlogin-dashboard.jpg',
+          url: 'https://system-landing-page.vercel.app/images/mktlogin-dashboard.jpg',
           width: 1200,
           height: 740,
           alt: 'MKTLogin Antidetect Browser for Multi-Accounting',
@@ -34,11 +34,11 @@ export const allMetadata = {
       ],
     },
     alternates: {
-      canonical: 'https://mktlogin.com/download',
+      canonical: 'https://system-landing-page.vercel.app/en/download',
       languages: {
-        'en-US': 'https://mktlogin.com/en/download',
-        'vi-VN': 'https://mktlogin.com/vi/download',
-        'x-default': 'https://mktlogin.com/download',
+        'en-US': 'https://system-landing-page.vercel.app/en/download',
+        'vi-VN': 'https://system-landing-page.vercel.app/vi/download',
+        'x-default': 'https://system-landing-page.vercel.app/download',
       },
     },
   },
@@ -63,13 +63,13 @@ export const allMetadata = {
       locale: 'vi_VN',
       type: 'website',
       siteName: 'MKTLogin',
-      url: 'https://mktlogin.com/download',
+      url: 'https://system-landing-page.vercel.app/download',
       title: 'MKTLogin - Tải xuống Trình duyệt Antidetect để quản lý nhiều tài khoản',
       description:
         'Tạo dấu vân tay trình duyệt độc đáo với trình duyệt antidetect MKTLogin để quản lý tất cả các tài khoản trực tuyến của bạn mà không bị cấm. Được các doanh nghiệp tin dùng trên Google, Instagram, Facebook, Telegram, Twitter, Tiktok, v.v.',
       images: [
         {
-          url: 'https://mktlogin.com/images/mktlogin-dashboard.jpg',
+          url: 'https://system-landing-page.vercel.app/images/mktlogin-dashboard.jpg',
           width: 1200,
           height: 740,
           alt: 'Trình duyệt Antidetect MKTLogin để quản lý nhiều tài khoản',
@@ -77,11 +77,11 @@ export const allMetadata = {
       ],
     },
     alternates: {
-      canonical: 'https://mktlogin.com/download',
+      canonical: 'https://system-landing-page.vercel.app/vi/download',
       languages: {
-        'en-US': 'https://mktlogin.com/en/download',
-        'vi-VN': 'https://mktlogin.com/vi/download',
-        'x-default': 'https://mktlogin.com/download',
+        'en-US': 'https://system-landing-page.vercel.app/en/download',
+        'vi-VN': 'https://system-landing-page.vercel.app/vi/download',
+        'x-default': 'https://system-landing-page.vercel.app/download',
       },
     },
   },

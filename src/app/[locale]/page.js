@@ -8,8 +8,14 @@ import Features from 'src/sections/features';
 import Worker from 'src/sections/worker';
 import Reviews from 'src/sections/reviews';
 import Plans from 'src/sections/plans';
+import { use } from 'react';
+import { setRequestLocale } from 'next-intl/server';
 
-export default function Home() {
+export default function Home({ params }) {
+  const { locale } = use(params);
+
+  // Enable static rendering
+  setRequestLocale(locale);
   return (
     <Box
       component="main"

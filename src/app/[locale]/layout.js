@@ -15,14 +15,15 @@ import { NextIntlClientProvider, hasLocale } from 'next-intl';
 import { routing } from 'src/i18n/routing';
 import { notFound } from 'next/navigation';
 import { allMetadata } from 'src/app/[locale]/metadata';
+import { setRequestLocale } from 'next-intl/server';
 
 const robotoSans = Roboto({
   variable: '--font-roboto-sans',
   subsets: ['latin'],
 });
 
-export async function generateStaticParams() {
-  return [{ lang: 'en' }, { lang: 'vi' }];
+export function generateStaticParams() {
+  return routing.locales.map((locale) => ({ locale }));
 }
 
 export async function generateMetadata({ params }) {
@@ -40,22 +41,24 @@ export default async function RootLayout({ children, params }) {
     notFound();
   }
 
+  setRequestLocale(locale);
+
   return (
     <html lang={locale || 'en'}>
       <body className={`${robotoSans.className}`}>
-        <AppRouterCacheProvider>
-          <ThemeProvider theme={customTheme}>
-            <ProgressBar />
-            <CssBaseline />
-            <Box sx={{ display: 'flex', flexDirection: 'column', height: 1 }}>
-              <NextIntlClientProvider>
+        <NextIntlClientProvider>
+          <AppRouterCacheProvider>
+            <ThemeProvider theme={customTheme}>
+              <ProgressBar />
+              <CssBaseline />
+              <Box sx={{ display: 'flex', flexDirection: 'column', height: 1 }}>
                 <Header />
                 {children}
                 <Footer />
-              </NextIntlClientProvider>
-            </Box>
-          </ThemeProvider>
-        </AppRouterCacheProvider>
+              </Box>
+            </ThemeProvider>
+          </AppRouterCacheProvider>
+        </NextIntlClientProvider>
       </body>
     </html>
   );

@@ -61,6 +61,7 @@ export const NavItem = ({
     <Link
       style={{
         textDecoration: 'none',
+        whiteSpace: 'nowrap',
       }}
       href={path}
       title={t(title)}

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { use } from 'react';
 
 // mui
 import Box from '@mui/material/Box';
@@ -9,8 +9,13 @@ import Button from '@mui/material/Button';
 import Iconify from 'src/components/iconify';
 import { useTranslations } from 'next-intl';
 import OsDownload from 'src/components/os-download';
+import { setRequestLocale } from 'next-intl/server';
 
-const DowLoadPage = () => {
+const DowLoadPage = ({ params }) => {
+  const { locale } = use(params);
+
+  // Enable static rendering
+  setRequestLocale(locale);
   const t = useTranslations('downloadPage');
 
   return (

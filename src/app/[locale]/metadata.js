@@ -20,13 +20,13 @@ export const allMetadata = {
       locale: 'en_US',
       type: 'website',
       siteName: 'MKTLogin',
-      url: 'https://mktlogin.com',
+      url: 'https://system-landing-page.vercel.app',
       title: 'MKTLogin - Best Antidetect Browser for Multi-Accounting',
       description:
         'Create unique browser fingerprints with MKTLogin antidetect browser to manage all your online accounts without getting banned. Trusted by businesses in Google, Instagram, Facebook, Telegram, Twitter, Tiktok, etc.',
       images: [
         {
-          url: 'https://mktlogin.com/images/mktlogin-dashboard.jpg',
+          url: 'https://system-landing-page.vercel.app/images/mktlogin-dashboard.jpg',
           width: 1200,
           height: 740,
           alt: 'MKTLogin Antidetect Browser for Multi-Accounting',
@@ -34,11 +34,11 @@ export const allMetadata = {
       ],
     },
     alternates: {
-      canonical: 'https://mktlogin.com',
+      canonical: 'https://system-landing-page.vercel.app/en',
       languages: {
-        'en-US': 'https://mktlogin.com/en',
-        'vi-VN': 'https://mktlogin.com/vi',
-        'x-default': 'https://mktlogin.com',
+        'en-US': 'https://system-landing-page.vercel.app/en',
+        'vi-VN': 'https://system-landing-page.vercel.app/vi',
+        'x-default': 'https://system-landing-page.vercel.app',
       },
     },
   },
@@ -63,13 +63,13 @@ export const allMetadata = {
       locale: 'en_US',
       type: 'website',
       siteName: 'MKTLogin',
-      url: 'https://mktlogin.com',
+      url: 'https://system-landing-page.vercel.app',
       title: 'MKTLogin - Trình duyệt chống phát hiện tốt nhất cho Đa tài khoản',
       description:
         'Tạo dấu vân tay trình duyệt độc đáo với trình duyệt chống phát hiện MKTLogin để quản lý tất cả các tài khoản trực tuyến của bạn mà không bị cấm. Được các doanh nghiệp trên Google, Instagram, Facebook, Telegram, Twitter, Tiktok, v.v. tin dùng.',
       images: [
         {
-          url: 'https://mktlogin.com/images/mktlogin-dashboard.jpg',
+          url: 'https://system-landing-page.vercel.app/images/mktlogin-dashboard.jpg',
           width: 1200,
           height: 740,
           alt: 'Trình duyệt chống phát hiện MKTLogin cho Đa tài khoản',
@@ -77,11 +77,11 @@ export const allMetadata = {
       ],
     },
     alternates: {
-      canonical: 'https://mktlogin.com',
+      canonical: 'https://system-landing-page.vercel.app/vi',
       languages: {
-        'en-US': 'https://mktlogin.com/en',
-        'vi-VN': 'https://mktlogin.com/vi',
-        'x-default': 'https://mktlogin.com',
+        'en-US': 'https://system-landing-page.vercel.app/en',
+        'vi-VN': 'https://system-landing-page.vercel.app/vi',
+        'x-default': 'https://system-landing-page.vercel.app',
       },
     },
   },
